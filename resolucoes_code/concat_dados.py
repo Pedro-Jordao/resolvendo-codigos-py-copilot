@@ -5,8 +5,8 @@ def concat_dados():
     dado1 = input("Digite o primeiro dado: ")
     dado2 = input("Digite o segundo dado: ")
 
-    # Concatenando os dados
-    resultado = dado1 + dado2
+    # Concatenando os dados com espaço entre eles
+    resultado = dado1 + " " + dado2
 
     # Exibindo o resultado
     print(f"Resultado da concatenação: {resultado}")
