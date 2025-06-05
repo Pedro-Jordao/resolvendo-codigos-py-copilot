@@ -1,89 +1,73 @@
-# 📘 Projeto de Desafio - Bootcamp DIO
+# 🚀 Resolvendo Códigos em Python com Github Copilot
 
-> ⚠️ O seguinte README refere-se a um projeto para a obtenção de nota ou aprovação em um Bootcamp da DIO e está de acordo com a respectiva **"Descrição do Desafio"** que possuir.  
+> ⚠️ O seguinte README refere-se a um projeto para a obtenção de nota ou aprovação em um Bootcamp da DIO e está de acordo com a respectiva **"Descrição do Desafio"** que possuir.
 
-# Resolvendo Códigos em Python com o Github Copilot
+Este repositório apresenta resoluções de desafios em Python, desenvolvidas com o auxílio do Github Copilot, para fins de aprendizado e avaliação em bootcamps da DIO.
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+## Desafios Propostos
 
-### Atenção ⚠️ 
+### 1. Concatenando Dados
 
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+Recebe dois dados do usuário e concatena em uma única string.
 
-## 1 - Concatenando Dados 🐾
+- **Arquivo:** `resolucoes_code/concat_dados.py`
+- **Conceitos:** Entrada de dados, manipulação e concatenação de strings.
 
-Descrição:
-Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
+---
 
-O que aprenderemos?
+### 2. Repetindo Textos
 
-* Manipulação de Strings (string)
-* Concatenação
-* Entrada de dados
-* Utilização eficiente do Github Copilot
+Solicita uma string e um número inteiro, retornando a string repetida conforme o valor informado.
 
-<br>
+- **Arquivo:** `resolucoes_code/repet_txt.py`
+- **Conceitos:** Repetição de strings, entrada de dados, uso de laços ou operadores de repetição.
 
-## 2 - Repetindo Textos ✏️
+---
 
-Descrição:
-Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
+### 3. Operações Matemáticas Simples
 
-O que aprenderemos?
+Recebe dois números e uma operação (+, -, *, /), realizando o cálculo solicitado.
 
-* Manipulação de Strings (string)
-* Números Inteiros (int)
-* Múltiplas repetições
-* Entrada de dados
-* Aproveitar as sugestões do Github Copilot
+- **Arquivo:** `resolucoes_code/ope_mat.py`
+- **Conceitos:** Operações aritméticas, validação de entrada, tratamento de erros.
 
-<br>
+---
 
-## 3 - Operações Matemáticas Simples 📐
+### 4. Verificando Números Pares e Ímpares
 
-Descrição:
-Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+Verifica se um número inteiro informado é par ou ímpar.
 
-O que aprenderemos?
+- **Arquivo:** `resolucoes_code/verificando_pares_impares.py`
+- **Conceitos:** Condicionais, operador módulo.
 
-* Operações Matemáticas Básicas
-* Entrada de dados
-* Utilização eficiente do Github Copilot
+---
 
-<br>
+### 5. Calculando Média de Notas
 
-## 4 - Verificando Números Pares e Ímpares 🧮
+Calcula a média de três notas fornecidas pelo usuário.
 
-Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
-Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
+- **Arquivo:** `resolucoes_code/calculando_media.py`
+- **Conceitos:** Operadores aritméticos, entrada e manipulação de dados.
 
-O que aprenderemos?
-* Utilização de condicionais em Python (if, else) para realizar verificações.
-* Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+---
 
+### 6. Verificando Palíndromos
 
-<br>
+Verifica se uma palavra informada é um palíndromo.
 
-## 5 - Calculando Média de Notas 📚
+- **Arquivo:** `resolucoes_code/verificando_palindromos.py`
+- **Conceitos:** Manipulação de strings, comparação e inversão.
 
-Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
-Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
+---
 
-O que aprenderemos?
-* Uso de variáveis para armazenar dados fornecidos pelo usuário.
-* Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
-* Prática na solicitação e manipulação de entrada do usuário.
+## 💡 Observações
 
-<br>
+- Todos os desafios foram resolvidos utilizando sugestões do Github Copilot para otimizar o desenvolvimento.
+- Os scripts são simples, focados em conceitos básicos de Python, ideais para iniciantes.
 
-## 6 - Verificando Palíndromos 🔄
+---
 
-Descrição: Vamos testar se uma palavra é um palíndromo?! 
-Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
+## 🧾 Notas Finais
 
-O que aprenderemos?
-* Manipulação de strings em Python, especialmente invertendo uma string.
-* Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
-* Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+Este README é um modelo padrão reutilizável para projetos desenvolvidos em bootcamps da DIO.  
+Adapto conforme o desafio proposto, mantendo a estrutura clara
