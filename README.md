@@ -1,3 +1,7 @@
+# 📘 Projeto de Desafio - Bootcamp DIO
+
+> ⚠️ O seguinte README refere-se a um projeto para a obtenção de nota ou aprovação em um Bootcamp da DIO e está de acordo com a respectiva **"Descrição do Desafio"** que possuir.  
+
 # Resolvendo Códigos em Python com o Github Copilot
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
