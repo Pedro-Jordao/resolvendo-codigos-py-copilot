@@ -1,4 +1,5 @@
-# 🚀 Resolvendo Códigos em Python com Github Copilot
+# 🚀 Resolvendo Códigos em Python com Github Copilot 
+## Curso - https://web.dio.me/track/formacao-github-certification
 
 > ⚠️ O seguinte README refere-se a um projeto para a obtenção de nota ou aprovação em um Bootcamp da DIO e está de acordo com a respectiva **"Descrição do Desafio"** que possuir.
 
