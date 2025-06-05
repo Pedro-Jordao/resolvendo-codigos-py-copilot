@@ -26,7 +26,7 @@ def operacao_matematica():
 
         # Exibindo o resultado
         print(f"Resultado: {resultado}")
-
+    #tratamento de erro caso o usuário não digite um valor numérico
     except ValueError as e:
         print(f"Erro: {e}")
 operacao_matematica()
